@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Perkenalkan nama saya, **Dimas Abian Ihsan** <br>
-Seorang mahasiswa yang sedang mempelajari python
+Currently pursuing career on data, highly interested on data engineering and analytics
 <!--
 **galahad20/galahad20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
